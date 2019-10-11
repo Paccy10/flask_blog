@@ -1,0 +1,2 @@
+[MESSAGES CONTROL]
+disable = no-member, missing-docstring, invalid-name, bad-continuation, unused-import, ungrouped-imports, redefined-outer-name, bare-except
